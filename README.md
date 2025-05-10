@@ -1,4 +1,4 @@
-# Nova Health - AI Medical Chatbot
+# Nova Health - Smart Health Diagnosis and Lifestyle System
 
 ## Project Overview
 
